@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on 🌩
+
+--- 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ak-sky)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **Ak-sky/Ak-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
